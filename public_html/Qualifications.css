@@ -1,0 +1,16 @@
+section {
+    width: 1000px;
+    padding: 10px;
+    border: 5px solid black;
+    margin: 0px;
+    background: white;
+    color: black;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+h2 {
+    text-decoration:underline;
+}
